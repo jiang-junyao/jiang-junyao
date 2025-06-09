@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello there 👋
+
+I am Junyao Jiang, a final-year PhD candidate in Computational Biology at Westlake University.
+
+- I am working on applying machine learning and statistical methods to decode the cell fate decision process.
+- For more information, please see my [personal page](https://jiang-junyao.github.io/)
 
 <!--
 **jiang-junyao/jiang-junyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
