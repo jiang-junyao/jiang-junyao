@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 ### I am Junyao Jiang, a final-year PhD candidate in Computational Biology at Westlake University.
-#### I am actively seeking a postdoctoral position in computational single-cell and spatial genomics outside mainland China. I would greatly appreciate it if you could share any relevant opportunities.
+#### I am actively seeking a postdoctoral position in computational single-cell and spatial genomics outside mainland China. I would greatly appreciate it if you could share any relevant opportunities (Please email me at jiangjunyao@westlake.edu.cn).
 - I am working on applying machine learning and statistical methods to decode the cell fate decision process.
 - For more information, please refer to my [personal page](https://jiang-junyao.github.io/).
 
